@@ -152,6 +152,10 @@ defineProps({
                                     </li>
                                     <li>
                                         <i class="fa-regular fa-hand-point-right"></i> 
+                                        Host: <b>AWS EC2</b>
+                                    </li>
+                                    <li>
+                                        <i class="fa-regular fa-hand-point-right"></i> 
                                         Deployment: <b>Forge</b>
                                     </li>
                                 </ul>
